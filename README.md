@@ -7,7 +7,7 @@ This is a portfolio site showing my background information,links to some project
 ## Setup Instructions
   
    To view the site, download or clone the repository and then open *index.html* with any browser of your choice. 
-   Alternatively ,you can click on this [link](https://githubpages.com).
+   Alternatively ,you can click on this [link](https://dcolonel6.github.io/portfolio/.).
 
 ## License
 MIT
