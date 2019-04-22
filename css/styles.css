@@ -72,9 +72,22 @@ header,.welcome{
 .centered{
     position: absolute;
     top: 40%;
-    left: 30%;
+    left: 42%;
 }
 .avatar {
     border-radius: 50%;
-    width: 60%
+    width: 250px;
+    height: 250px;
+}
+.social-media > span a {
+    color: #43b2e3;
+    text-decoration: none;
+    opacity: 0.2;
+    transition: opacity 1s linear;
+    
+}
+.social-media > span a:hover {
+    color: #43b2e3;
+    text-decoration: none;
+    opacity: 1;
 }
