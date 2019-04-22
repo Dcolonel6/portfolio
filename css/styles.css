@@ -124,6 +124,12 @@ hr.divider{
     border-color: #43b2e3;
     padding: 8px 0px;
 }
+.sub-title{
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    
+}
 
 /***
     The grid
@@ -172,3 +178,6 @@ hr.divider{
 /**
     the projects section
 **/
+.card{
+
+}
