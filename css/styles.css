@@ -133,7 +133,12 @@ hr.divider{
 .center-text{
     text-align: center;
 }
-
+.center-text ol {
+    display: inline-table;
+}
+.center-text li{
+    display: block;
+}
 /***
     The grid
 ***/
@@ -209,6 +214,5 @@ card {
   .card button:hover {
     border: 1px solid #43b2e3;
     background-color: white;
-    color: #43b2e3
-
+    color: #43b2e3;
   }
