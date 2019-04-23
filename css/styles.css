@@ -46,6 +46,14 @@ header{
     padding-right: 16px;
     font-size: 27px;
 }
+.menu > li:hover{
+    display: inline-block;
+    text-decoration: none;
+    padding-right: 16px;
+    font-size: 27px;
+    color: #43b2e3;
+    
+}
 a {
     text-decoration: none;
 }
